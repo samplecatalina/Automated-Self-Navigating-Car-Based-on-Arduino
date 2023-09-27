@@ -1,5 +1,9 @@
 # Automated Self-Navigating Car, Based on Arduino
 
+*C, Self-Navigating Car, Arduino*
+
+Completed in Oct, 2022
+
 ## Table of Contents
 
 - [Automated Self-Navigating Car, Based on Arduino](#automated-self-navigating-car-based-on-arduino)
