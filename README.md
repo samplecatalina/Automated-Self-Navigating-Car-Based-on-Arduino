@@ -6,14 +6,12 @@ Completed in Oct, 2022
 
 ## Table of Contents
 
-- [Automated Self-Navigating Car, Based on Arduino](#automated-self-navigating-car-based-on-arduino)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Structure of repo](#structure-of-repo)
-  - [Dependencies](#dependencies)
+- [Overview](#overview)
+- [Structure of repo](#structure-of-repo)
+- [Dependencies](#dependencies)
 
 ## Overview
-This project represents a sophisticated and well-architected solution for an Automated Self-Navigating Car utilizing Arduino as the core component. The car is capable of navigating through intricate mazes and avoiding obstacles, demonstrating advanced robotics and automation principles.
+This project represents a solution for an Automated Self-Navigating Car utilizing Arduino as the core component. The car is capable of navigating through intricate mazes and avoiding obstacles, demonstrating an understanding of robotics and automation principles.
 
 ## Key Features
 - **Advanced Navigation:** Employs complex algorithms to navigate through mazes and avoid obstacles efficiently.
