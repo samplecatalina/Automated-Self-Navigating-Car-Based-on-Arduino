@@ -15,9 +15,8 @@ This project represents a solution for an Automated Self-Navigating Car utilizin
 
 ## Key Features
 - **Advanced Navigation:** Employs complex algorithms to navigate through mazes and avoid obstacles efficiently.
-- **Modular Design:** Structured with clear and concise code, segregated into multiple files for easy understanding and modification.
-- **Comprehensive Documentation:** Detailed comments and documentation are provided to understand the intricacies of the project.
 - **Cross-Platform Compatibility:** Accompanied by build scripts for both Windows and Unix-based systems, ensuring ease of use across different platforms.
+- **Modular Design:** Structured with clear and concise code, segregated into multiple files for easy understanding and modification.
 - **Robust Error Handling:** Implemented with meticulous error handling to manage unforeseen situations and ensure smooth operation.
 
 ## Structure of repo
